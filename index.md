@@ -6,10 +6,7 @@
 
 [Link a otra parte de la página](https://natichubretovic.github.io./nati).
 
-| Esto es una tabla con info para cada uno    | número|
-| ----------- | ----------- |
-| ![icono](Unknown.png)     | Title       |
-| Paragraph   | Text        |
+| ![icono](Unknown.png)     | 20 por ciento de asistencia     |
 
 
 st=>start: Start|past:>http://www.google.com[blank]
