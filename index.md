@@ -1,6 +1,6 @@
-# Esto es lo que quiero decir en la página
+# Bienvenido a la página de lo prado
 
-## Soy lA nATI CHUBRETOVIC Y ESTA ES UNA PRUEBA
+## esto es una prueba con imágenes ya hechas
 
 ![A test image](map_export.png)
 
