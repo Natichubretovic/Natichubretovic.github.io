@@ -1,5 +1,5 @@
-	<h1>Esto es lo que quiero decir en la página	<h1>
+# Esto es lo que quiero decir en la página
 
-	<h2>Soy lA nATI CHUBRETOVIC Y ESTA ES UNA PRUEBA	<h2>
+##Soy lA nATI CHUBRETOVIC Y ESTA ES UNA PRUEBA
 
 ![A test image](egocetrica.jpg)
