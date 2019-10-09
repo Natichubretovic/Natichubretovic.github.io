@@ -5,3 +5,8 @@
 ![A test image](egocetrica.jpg)
 
 [Link a otra parte de la página](https://natichubretovic.github.io./nati).
+
+| Esto es una tabla con     | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
