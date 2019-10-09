@@ -10,5 +10,5 @@
 
 | Column 1       | Column 2     | Column 3     |
 | :------------- | :----------: | -----------: |
-| ![icono](Unknown.png)  | More Stuff   | And Again    |
-| ![icono](familia.png)   | Put Pipes In | Like this \| |
+| ![icono](Unknown.png)  | 20 por ciento asistencia   | And Again    |
+| ![icono](familia.png)   | 1/4 familias bla bla | Like this \| |
