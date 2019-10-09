@@ -2,7 +2,7 @@
 
 ## Soy lA nATI CHUBRETOVIC Y ESTA ES UNA PRUEBA
 
-![A test image](egocetrica.jpg)
+![A test image](mapa_export.jpg)
 
 [Link a otra parte de la página](https://natichubretovic.github.io./nati).
 
