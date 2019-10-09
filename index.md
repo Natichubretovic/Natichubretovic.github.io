@@ -2,13 +2,13 @@
 
 ## Soy lA nATI CHUBRETOVIC Y ESTA ES UNA PRUEBA
 
-![A test image](mapa_export.jpg)
+![A test image](map_export.png)
 
 [Link a otra parte de la página](https://natichubretovic.github.io./nati).
 
-| Esto es una tabla con     | Description |
+| Esto es una tabla con info para cada uno    | número|
 | ----------- | ----------- |
-| Header      | Title       |
+| ![icono](Unknown.png)     | Title       |
 | Paragraph   | Text        |
 
 
